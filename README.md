@@ -1,5 +1,7 @@
 # Superpowers
 
+> This fork carries the small `superpowers-plus` overlay. See [SUPERPOWERS-PLUS.md](SUPERPOWERS-PLUS.md) for its exact delta, Codex installation, and upstream sync workflow. The official Codex marketplace entry installs upstream Superpowers without this overlay.
+
 Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.
 
 ## Table of Contents

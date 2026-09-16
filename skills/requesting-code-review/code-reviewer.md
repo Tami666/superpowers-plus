@@ -45,6 +45,8 @@ Subagent (general-purpose):
 
     ## What to Check
 
+    **Implementation-quality baseline:** Read and apply the `coding-standards` skill. Do not restate its rules in this prompt or report.
+
     **Plan alignment:**
     - Does the implementation match the plan / requirements?
     - Are deviations justified improvements, or problematic departures?
